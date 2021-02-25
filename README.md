@@ -1,2 +1,2 @@
 # autozucc
-3900 final project 
+This is our 3900 final project 
